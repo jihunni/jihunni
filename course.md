@@ -11,9 +11,11 @@
 # Computer Science
 - Introduction to Data Science | edX, MITx
 - Algorithm | Coursera, Stanford
-- Arcitecture | 
+- Arcitecture | UC Berkeley | [webpage](https://cs61a.org/)
+- Structure and Interpretation of Computer Programs
 - High Performance Computing | GIST | 2021 Summer
 
 # Deep learning
 - Recent Advances in Deep Learning (AI602, Spring 2021) | KAIST, Prof jinwoo shin | [homepage](https://alinlab.kaist.ac.kr/ai602_2021.html)
 - Machine Learning with Graphs | Stanford, CS224 | [homepage](http://web.stanford.edu/class/cs224w/)
+- Advanced Machine Learning in Korean | KAIST | [Youtube](https://www.youtube.com/watch?v=4w1lidx6mV4&list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn&ab_channel=AAILabKaist)
