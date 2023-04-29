@@ -14,8 +14,12 @@
 - Arcitecture | UC Berkeley | [webpage](https://cs61a.org/)
 - Structure and Interpretation of Computer Programs
 - High Performance Computing | GIST | 2021 Summer
-
+- Operating system | Koreatech | [webpage](https://hpckoreatech.notion.site/Operating-System-CSE132-2023-b8aa98fe69cc4a8cb950051a04bc35ca)
+- System programming | Koreatech
 # Deep learning
 - Recent Advances in Deep Learning (AI602, Spring 2021) | KAIST, Prof jinwoo shin | [homepage](https://alinlab.kaist.ac.kr/ai602_2021.html)
 - Machine Learning with Graphs | Stanford, CS224 | [homepage](http://web.stanford.edu/class/cs224w/)
 - Advanced Machine Learning in Korean | KAIST | [Youtube](https://www.youtube.com/watch?v=4w1lidx6mV4&list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn&ab_channel=AAILabKaist)
+
+# Biophysics
+- Biophysics Techniques [Youtube video](https://www.youtube.com/watch?v=mPg_PgbjRN8&list=PLQbPquAyEw4dQ3zOLrdS1eF_KJJbUUyBx&index=7&ab_channel=MRCLaboratoryofMolecularBiology)
