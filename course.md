@@ -25,5 +25,6 @@
 # Chemistry
 - Basic analytic chemistry | Coursera 
 - Thermodynaics | [Course material](https://itp.uni-frankfurt.de/~gros/Vorlesungen/TD/)
+  - [Q&A} Difference between Δ, d and δ | [link](https://physics.stackexchange.com/questions/65724/difference-between-delta-d-and-delta)
 # Biophysics
 - Biophysics Techniques [Youtube video](https://www.youtube.com/watch?v=mPg_PgbjRN8&list=PLQbPquAyEw4dQ3zOLrdS1eF_KJJbUUyBx&index=7&ab_channel=MRCLaboratoryofMolecularBiology)
