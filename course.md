@@ -21,7 +21,8 @@
 - CS402 Introduction to Logic for Computer Science | [Youbue](https://www.youtube.com/playlist?list=PLvV9DPeJV9xzhy0Ti3P4DrfmtfXfLalW6)
 - Computation structures | MIT | [Youtube]([Computation Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2)
 - Software Engineering | [homepage](https://www.cs.cornell.edu/courses/cs5150/2017sp/lectures.html)
-# Deep learning
+- Introduction to Computer Networking | [homepage](https://stevetarzia.com/teaching/)
+\# Deep learning
 - Recent Advances in Deep Learning (AI602, Spring 2021) | KAIST, Prof jinwoo shin | [homepage](https://alinlab.kaist.ac.kr/ai602_2021.html)
 - Machine Learning with Graphs | Stanford, CS224 | [homepage](http://web.stanford.edu/class/cs224w/)
 - Advanced Machine Learning in Korean | KAIST | [Youtube](https://www.youtube.com/watch?v=4w1lidx6mV4&list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn&ab_channel=AAILabKaist)
