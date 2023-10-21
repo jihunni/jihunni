@@ -22,10 +22,12 @@
 - Computation structures | MIT | [Youtube]([Computation Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2)
 - Software Engineering | [homepage](https://www.cs.cornell.edu/courses/cs5150/2017sp/lectures.html)
 - Introduction to Computer Networking | [homepage](https://stevetarzia.com/teaching/)
-\# Deep learning
+
+# Machine learning & Deep learning
 - Recent Advances in Deep Learning (AI602, Spring 2021) | KAIST, Prof jinwoo shin | [homepage](https://alinlab.kaist.ac.kr/ai602_2021.html)
 - Machine Learning with Graphs | Stanford, CS224 | [homepage](http://web.stanford.edu/class/cs224w/)
 - Advanced Machine Learning in Korean | KAIST | [Youtube](https://www.youtube.com/watch?v=4w1lidx6mV4&list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn&ab_channel=AAILabKaist)
+- Reinforcement Learning | [homepage](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/schedule.html) | From Dohyun Kim
 
 # Chemistry
 - Basic analytic chemistry | Coursera 
