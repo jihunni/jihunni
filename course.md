@@ -24,6 +24,7 @@
 - Introduction to Computer Networking | [homepage](https://stevetarzia.com/teaching/)
 
 # Machine learning & Deep learning
+- Machine Learning | [homepage](https://www.cs.cornell.edu/courses/cs4780/2018fa/)   
 - Recent Advances in Deep Learning (AI602, Spring 2021) | KAIST, Prof jinwoo shin | [homepage](https://alinlab.kaist.ac.kr/ai602_2021.html)
 - Machine Learning with Graphs | Stanford, CS224 | [homepage](http://web.stanford.edu/class/cs224w/)
 - Advanced Machine Learning in Korean | KAIST | [Youtube](https://www.youtube.com/watch?v=4w1lidx6mV4&list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn&ab_channel=AAILabKaist)
