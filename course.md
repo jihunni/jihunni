@@ -35,7 +35,7 @@
 - Thermodynaics | [Course material](https://itp.uni-frankfurt.de/~gros/Vorlesungen/TD/)
   - [Q&A] Difference between Δ, d and δ | [link](https://physics.stackexchange.com/questions/65724/difference-between-delta-d-and-delta)
 - Computational Chemistry | [course page](http://pollux.chem.umn.edu/8021/)
-- Inorganic Chemistry | [Youtube video](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7kGnKLTbdwZ3IGVNXK43k7S)
+- Inorganic Chemistry | [Youtube video](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7kGnKLTbdwZ3IGVNXK43k7S) | [course website](https://mattlawgroup.org/inorganic-chemistry-chem-107/)
 # Biophysics
 - Physical Biology of the Cell [Youtube video](https://www.youtube.com/playlist?list=PLc9OywcOxjzKqP_npfSyrQfq6_-S5juFA)
 - Biophysics Techniques [Youtube video](https://www.youtube.com/watch?v=mPg_PgbjRN8&list=PLQbPquAyEw4dQ3zOLrdS1eF_KJJbUUyBx&index=7&ab_channel=MRCLaboratoryofMolecularBiology)
