@@ -23,6 +23,7 @@
 - Computation structures | MIT | [Youtube]([Computation Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2)
 - Software Engineering | [homepage](https://www.cs.cornell.edu/courses/cs5150/2017sp/lectures.html)
 - Introduction to Computer Networking | [homepage](https://stevetarzia.com/teaching/)
+- PARALLEL COMPUTING | [homepage](https://gfxcourses.stanford.edu/cs149/fall23/)
 
 # Machine learning & Deep learning
 - Machine Learning | [homepage](https://www.cs.cornell.edu/courses/cs4780/2018fa/)   
